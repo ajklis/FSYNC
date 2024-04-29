@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace FSYNC_API.Api
 {
-    internal class Startup
+    public class Startup
     {
+
     }
 }
